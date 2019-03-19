@@ -1,0 +1,68 @@
+#MAP1
+xxxxxxxxxx
+xxxxxxxxxx
+xxxxx----x
+xx----xx-x
+xx-xxxxx--
+xx-xxxxxxx
+---xxxxxxx
+xxxxxxxxxx
+xxxxxxxxxx
+xxxxxxxxxx
+Rounds for MAP1
+1:tank:30
+2:car:30
+4:car:30
+6:car:30
+9:car:30
+15:car:30
+20:car:30
+30:car:30
+40:car:30
+&
+
+#MAP2
+xxxxxxxxxx
+xxxxxxxxxx
+xxxx---xxx
+--x--x-xxx
+x-x-xx-xxx
+x---xx---x
+xxxxxxxx-x
+xxxxxxxx--
+xxxxxxxxxx
+xxxxxxxxxx
+Rounds for MAP2
+1:car:30
+1:car:30
+&
+
+#MAP3
+xxxxxxxxxx
+x---x---xx
+x-x---x-xx
+x-xxxxx--x
+x-xxxxxx-x
+x-xxxxxx-x
+x-xxx----x
+--xxx-xxxx
+xxxxx-----
+xxxxxxxxxx
+Rounds for MAP3
+10:car:30
+20:car:30
+10:tank:60
+15:tank:60
+&
+
+#Custom1
+Rounds for Custom1
+&
+
+#Custom2
+Rounds for Custom2
+&
+
+#Custom3
+Rounds for Custom3
+&
